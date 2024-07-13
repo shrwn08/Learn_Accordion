@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "question": "Tell me about yourself.",
+        "response": "Thank you for allowing me to introduce myself. My name is Aman and I am from Meerut City in Uttar Pradesh. I completed my bachelor of technology with the CSE branch from XYZ University."
+    },
+    {
+        "id": 2,
+        "question": "What are your strengths?",
+        "response": "My strengths include strong analytical and problem-solving skills, proficiency in various programming languages, and effective communication. I am also a quick learner and adaptable to new technologies."
+    },
+    {
+        "id": 3,
+        "question": "What are your weaknesses?",
+        "response": "One of my weaknesses is that I tend to be a perfectionist, which sometimes leads me to spend more time on a task than necessary. However, I am working on balancing quality with efficiency."
+    },
+    {
+        "id": 4,
+        "question": "Why do you want to work here?",
+        "response": "I am excited about the opportunity to work here because of the company's commitment to innovation and its supportive work culture. I believe my skills and experiences align well with the company's goals, and I am eager to contribute to its success."
+    },
+    {
+        "id": 5,
+        "question": "Where do you see yourself in five years?",
+        "response": "In five years, I see myself taking on more responsibilities and possibly leading a team. I aim to continuously improve my skills and knowledge to advance in my career and make meaningful contributions to the organization."
+    }
+]
